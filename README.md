@@ -1,5 +1,7 @@
 # Diabetic_Retinopathy-Detection-Using-Machine_Learning
 
+Posted Date : 02 Oct 2023
+
 Project Title : Diabetic Retinopathy Detection and Diagnosis Using Machine Learning
 
 Project Overview:
